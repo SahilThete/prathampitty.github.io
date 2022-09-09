@@ -2,7 +2,7 @@
 
 <img src="https://i.imgur.com/DpRDLbI.png">
 
-### A Tech-savvy || Web Developer || Passionate Programmer || Ethical hacker || 5⭐C++(HackerRank) || Technical Head 
+### A Tech-savvy || Web Developer || Passionate Programmer || Ethical hacker || 5⭐C++(HackerRank) || Technical Head
 
 Updated Aug 10 2022
 
@@ -39,7 +39,7 @@ As a 2nd-year undergrad, I am currently pursuing degrees in Data Science -> IIT 
 
 ## 🔬 Work Experience
 
-- #### 💻 **Contributor | [Google Summer of Code 2022 @ Metabrainz](https://summerofcode.withgoogle.com/programs/2022/projects/OARdCHQq)** [May 22 - Current] 
+- #### 💻 **Contributor | [Google Summer of Code 2022 @ Metabrainz](https://summerofcode.withgoogle.com/programs/2022/projects/OARdCHQq)** [May 22 - Current]
 
   - **One of 1,209 globally** selected GSoC contributors in 2022.
   - Implemented **high-performance** python code to process **27 billion rows of data in 83 hours**. Optimized Data-Lake **size by 53%** & **I/O speeds by 9%** using modern standards like ZSTD & Parquet; while providing **analytical insights** for various projects in a cross-functional environment using **Pandas, & PostgreSQL**.
@@ -80,11 +80,6 @@ As a 2nd-year undergrad, I am currently pursuing degrees in Data Science -> IIT 
   - SGPA: 9.01 [Feb 2021 - Current]
   - An on-campus undergraduate 4-year degree program in Artificial Intelligence & Computer Science.
   - Courses: Foundational Data Analytics & Statistics, Machine Learning, Artificial Intelligence Knowledge Representation, Object Oriented Programming, Computer Networks, Operating Systems, DSA, etc.
-- #### 📘 [BS. Data Science and Applications](http://onlinedegree.iitm.ac.in/) | Indian Institute of Technology Madras
-
-  - SGPA: 8.50
-  - An off-campus 4-year degree program in Applied Data Science.
-  - Courses: Statistics for Data Science, Mathematics for Data Science, Python, Computational Thinking, etc.
 
 ## 📜 Certificates:
 
@@ -119,23 +114,16 @@ As a 2nd-year undergrad, I am currently pursuing degrees in Data Science -> IIT 
 
 ### 🎹 Hobbies
 
-- In my free time, I like playing Piano 🎹, and Producing Music 🎧 under my artist alias [SNÆK](https://snaek.biglink.to/SNAEK).
-- I also LOVE listening to music whenever I can! Check out my streams here: [https://www.last.fm/user/snaekboi](https://www.last.fm/user/snaekboi)
-  [![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=snaekboi)](https://www.last.fm/user/snaekboi)
-- Been trying to get into books as well!
-  My favorites are **“The Subtle Art of Not Giving a F*ck”** by Mark Manson, and “**Tokyo Ghoul”** by Sui Ishida.
-- I am also a huge anime & manga fan. You can find my favorites here: [https://myanimelist.net/profile/snaekboi](https://myanimelist.net/profile/snaekboi)
-
 ---
 
 ### 📈 Stats:
 
-<img src="https://activity-graph.herokuapp.com/graph?username=Prathamesh-Ghatole&bg_color=EAF6F6&color=FF0063&line=66BFBF&point=FF4E81&area=true&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=prathampitty&bg_color=EAF6F6&color=FF0063&line=66BFBF&point=FF4E81&area=true&hide_border=true">
 
-| `<img  src="https://github-readme-stats.vercel.app/api?username=Prathamesh-Ghatole&show_icons=true&bg_color=EAF6F6&title_color=66BFBF&icon_color=FE4880&text_color=FF4E81&locale=en">` | `<img src="https://github-readme-streak-stats.herokuapp.com?user=Prathamesh-Ghatole&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=EAF6F6&ring=FF5189&fire=FF5189&currStreakNum=66BFBF&sideNums=66BFBF" alt="Varun More's Streak" />` |
-| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| `<img  src="https://github-readme-stats.vercel.app/api?username=prathampitty&show_icons=true&bg_color=EAF6F6&title_color=66BFBF&icon_color=FE4880&text_color=FF4E81&locale=en">` | `<img src="https://github-readme-streak-stats.herokuapp.com?user=prathampitty&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=EAF6F6&ring=FF5189&fire=FF5189&currStreakNum=66BFBF&sideNums=66BFBF" alt="Varun More's Streak" />` |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
-<!-- ![Prathamesh's github stats](https://github-readme-stats.vercel.app/api?username=Prathamesh-Ghatole&show_icons=true&hide_border=true)  
-![Prathamesh's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prathamesh-Ghatole&layout=compact&langs_count=8&hide_border=true) -->
+<!-- ![Pratham's github stats](https://github-readme-stats.vercel.app/api?username=prathampitty&show_icons=true&hide_border=true)  
+![Pratham's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=prathampitty&layout=compact&langs_count=8&hide_border=true) -->
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Prathamesh-Ghatole.Prathamesh-Ghatole)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=prathampitty.prathampitty)
