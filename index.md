@@ -110,17 +110,17 @@ As a 2nd-year undergrad, I am currently pursuing degrees in Data Science -> IIT 
 - 📸 **Social Media/Marketing**: 3+yrs of Business Social Media Handling Linkedin/Twitter/Instagram/GitHub/Medium.com w/ toneden.io / later.com.
 - 📢 **Languages**: <English, Marathi, Hindi> (Proficient). Japanese (Elementry)
 
----
+<!---
 
 ### 🎹 Hobbies
 
----
+--->
 
 ### 📈 Stats:
 
 <img src="https://activity-graph.herokuapp.com/graph?username=prathampitty&bg_color=EAF6F6&color=FF0063&line=66BFBF&point=FF4E81&area=true&hide_border=true">
 
-| `<img  src="https://github-readme-stats.vercel.app/api?username=prathampitty&show_icons=true&bg_color=EAF6F6&title_color=66BFBF&icon_color=FE4880&text_color=FF4E81&locale=en">` | `<img src="https://github-readme-streak-stats.herokuapp.com?user=prathampitty&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=EAF6F6&ring=FF5189&fire=FF5189&currStreakNum=66BFBF&sideNums=66BFBF" alt="Varun More's Streak" />` |
+| <img  src="https://github-readme-stats.vercel.app/api?username=prathampitty&show_icons=true&bg_color=EAF6F6&title_color=66BFBF&icon_color=FE4880&text_color=FF4E81&locale=en"> | <img src="https://github-readme-streak-stats.herokuapp.com?user=prathampitty&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=EAF6F6&ring=FF5189&fire=FF5189&currStreakNum=66BFBF&sideNums=66BFBF" alt="Varun More's Streak" /> |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 
 <!-- ![Pratham's github stats](https://github-readme-stats.vercel.app/api?username=prathampitty&show_icons=true&hide_border=true)  
